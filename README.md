@@ -28,9 +28,9 @@ When you have done all of that, replace the values in the [.env](.env) file.
 
 
 ## TODO:
-- [ ]: Improve this README
-- [ ]: Work without the notifications on
-- [ ]: Make Windows/Mac version
-- [ ]: Create mobile app
-- [ ]: Sync data between devices
+- [ ] Improve this README
+- [ ] Work without the notifications on
+- [ ] Make Windows/Mac version
+- [ ] Create mobile app
+- [ ] Sync data between devices
 
